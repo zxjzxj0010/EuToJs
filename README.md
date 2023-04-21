@@ -1,2 +1,2 @@
-# blog
-301 redirect
+# 跳转knock.eu.org至knock.js.org
+
