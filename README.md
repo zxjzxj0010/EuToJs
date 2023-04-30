@@ -1,2 +1,2 @@
-# 跳转knock.eu.org至knock.js.org
+# 跳转knock.eu.org至knockblog.top
 
